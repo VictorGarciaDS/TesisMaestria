@@ -1,0 +1,15 @@
+\nomenclatureentry{Y$FSV$@[{$FSV$}]\begingroup Modelo de volatilidad estocástica fraccionaria\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{Y$RFSV$@[{$RFSV$}]\begingroup Modelo de volatilidad estocástica fraccionaria áspera\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{Y$H$@[{$H$}]\begingroup Coeficiente de Hurst\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{S$\buildrel L^m\over\simeq $@[{$\buildrel L^m\over\simeq $}]\begingroup Igualdad en $L^m$\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{S$\buildrel \mathbb P\over\simeq $@[{$\buildrel \mathbb P\over\simeq $}]\begingroup Igualdad en probabilidad\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{S$\buildrel d\over\simeq $@[{$\buildrel d\over\simeq $}]\begingroup Igualdad en distribución\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{YBm@[{Bm}]\begingroup Movimiento Browniano\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{YfBm@[{fBm}]\begingroup Movimiento Browniano fraccionario\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{S$\mathcal V_p$@[{$\mathcal V_p$}]\begingroup La $p-$variación de un proceso\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{YATM@[{ATM}]\begingroup At-the-money, en el dinero\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{Tlog-precio@[{log-precio}]\begingroup Precio en escala logarítmica\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{Y$SPX$@[{$SPX$}]\begingroup Standard \& Poor's 500 Index, es un índice ponderado por capitalización.\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{Y$VIX$@[{$VIX$}]\begingroup Chicago Board Options Exchange Market Volatility Index, es un índice que suele coincidir con mínimos en el índice de referencia, regularmente el SPX.\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{Y$ATM$@[{$ATM$}]\begingroup At-The-Money, es una opción cuyo strike es igual al precio al contado del subyacente\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{Tspot@[{spot}]\begingroup Mercado spot, aquel donde todos los activos que se compran o venden se entregan de forma inmediata al precio del momento y no al precio de la entrega.\nomeqref {0}|nompageref}{1}

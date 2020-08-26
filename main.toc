@@ -1,0 +1,34 @@
+\babel@toc {spanish}{}
+\contentsline {chapter}{Notación}{1}{Doc-Start}%
+\contentsline {chapter}{Agradecimientos}{\es@scroman {ii}}{chapter*.2}%
+\contentsline {chapter}{Resumen}{\es@scroman {iii}}{chapter*.3}%
+\contentsline {chapter}{Introducción}{1}{chapter*.4}%
+\contentsline {section}{Justificación}{1}{section*.5}%
+\contentsline {section}{Antecedentes}{2}{section*.6}%
+\contentsline {section}{Hipótesis}{2}{section*.7}%
+\contentsline {section}{Objetivos}{2}{section*.8}%
+\contentsline {subsection}{Objetivos generales}{2}{section*.9}%
+\contentsline {subsection}{Objetivos específicos}{2}{section*.10}%
+\contentsline {section}{Delimitación del problema}{2}{section*.11}%
+\contentsline {section}{Estructura del documento}{2}{section*.12}%
+\contentsline {chapter}{\numberline {1}Preámbulo}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}La volatilidad}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}El movimiento Browniano fraccionario}{4}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Memoria larga}{9}{subsection.1.2.1}%
+\contentsline {section}{\numberline {1.3}Otras propiedades del fBm}{11}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Fórmula de Itô fraccionaria}{12}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Teorema de Girsanov fraccionario}{15}{subsection.1.3.2}%
+\contentsline {chapter}{\numberline {2}La volatilidad en el fBm}{18}{chapter.2}%
+\contentsline {section}{\numberline {2.1}La superficie de volatilidad implícita.}{18}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Los datos}{19}{subsection.2.1.1}%
+\contentsline {section}{\numberline {2.2}La suavidad del proceso de volatilidad}{21}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Los futuros DAX y Bund}{24}{subsection.2.2.1}%
+\contentsline {section}{\numberline {2.3}??}{25}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Las diferencias entre FSV y RFSV}{26}{section.2.4}%
+\contentsline {chapter}{\numberline {3}El movimiento browniano fraccionario en finanzas}{27}{chapter.3}%
+\contentsline {section}{\numberline {3.1}???}{27}{section.3.1}%
+\contentsline {chapter}{Anexos}{29}{section*.14}%
+\contentsline {chapter}{\numberline {A}Algunos resultados mencionados}{30}{appendix.Alph1}%
+\contentsline {chapter}{\numberline {B}Códigos en R para los resultados presentados}{32}{appendix.Alph2}%
+\contentsline {section}{\numberline {B.1}La superficie de volatilidad}{32}{section.Alph2.1}%
+\contentsline {section}{\numberline {B.2}Estimaciones no paramétricas}{38}{section.Alph2.2}%

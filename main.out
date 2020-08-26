@@ -1,0 +1,33 @@
+\BOOKMARK [0][-]{Doc-Start}{Notaci\363n}{}% 1
+\BOOKMARK [0][-]{chapter*.2}{Agradecimientos}{}% 2
+\BOOKMARK [0][-]{chapter*.3}{Resumen}{}% 3
+\BOOKMARK [0][-]{chapter*.4}{Introducci\363n}{}% 4
+\BOOKMARK [1][-]{section*.5}{Justificaci\363n}{chapter*.4}% 5
+\BOOKMARK [1][-]{section*.6}{Antecedentes}{chapter*.4}% 6
+\BOOKMARK [1][-]{section*.7}{Hip\363tesis}{chapter*.4}% 7
+\BOOKMARK [1][-]{section*.8}{Objetivos}{chapter*.4}% 8
+\BOOKMARK [2][-]{section*.9}{Objetivos generales}{section*.8}% 9
+\BOOKMARK [2][-]{section*.10}{Objetivos espec\355ficos}{section*.8}% 10
+\BOOKMARK [1][-]{section*.11}{Delimitaci\363n del problema}{chapter*.4}% 11
+\BOOKMARK [1][-]{section*.12}{Estructura del documento}{chapter*.4}% 12
+\BOOKMARK [0][-]{chapter.1}{Pre\341mbulo}{}% 13
+\BOOKMARK [1][-]{section.1.1}{La volatilidad}{chapter.1}% 14
+\BOOKMARK [1][-]{section.1.2}{El movimiento Browniano fraccionario}{chapter.1}% 15
+\BOOKMARK [2][-]{subsection.1.2.1}{Memoria larga}{section.1.2}% 16
+\BOOKMARK [1][-]{section.1.3}{Otras propiedades del fBm}{chapter.1}% 17
+\BOOKMARK [2][-]{subsection.1.3.1}{F\363rmula de It\364 fraccionaria}{section.1.3}% 18
+\BOOKMARK [2][-]{subsection.1.3.2}{Teorema de Girsanov fraccionario}{section.1.3}% 19
+\BOOKMARK [0][-]{chapter.2}{La volatilidad en el fBm}{}% 20
+\BOOKMARK [1][-]{section.2.1}{La superficie de volatilidad impl\355cita.}{chapter.2}% 21
+\BOOKMARK [2][-]{subsection.2.1.1}{Los datos}{section.2.1}% 22
+\BOOKMARK [1][-]{section.2.2}{La suavidad del proceso de volatilidad}{chapter.2}% 23
+\BOOKMARK [2][-]{subsection.2.2.1}{Los futuros DAX y Bund}{section.2.2}% 24
+\BOOKMARK [1][-]{section.2.3}{??}{chapter.2}% 25
+\BOOKMARK [1][-]{section.2.4}{Las diferencias entre FSV y RFSV}{chapter.2}% 26
+\BOOKMARK [0][-]{chapter.3}{El movimiento browniano fraccionario en finanzas}{}% 27
+\BOOKMARK [1][-]{section.3.1}{???}{chapter.3}% 28
+\BOOKMARK [0][-]{section*.14}{Anexos}{}% 29
+\BOOKMARK [0][-]{appendix.Alph1}{Algunos resultados mencionados}{}% 30
+\BOOKMARK [0][-]{appendix.Alph2}{C\363digos en R para los resultados presentados}{}% 31
+\BOOKMARK [1][-]{section.Alph2.1}{La superficie de volatilidad}{appendix.Alph2}% 32
+\BOOKMARK [1][-]{section.Alph2.2}{Estimaciones no param\351tricas}{appendix.Alph2}% 33

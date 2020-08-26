@@ -1,0 +1,142 @@
+\begin{thebibliography}{}
+
+\bibitem[Andersen et~al., 2003]{andersen_modeling_2003}
+Andersen, T.~G., Bollerslev, T., Diebold, F.~X., y Labys, P. (2003).
+\newblock Modeling and forecasting realized volatility.
+\newblock {\em Econometrica}, 71(2):579--625.
+
+\bibitem[Bentes y Mendes~da Cruz, 2011]{bentes_is_2011}
+Bentes, S.~R. y Mendes~da Cruz, M. (2011).
+\newblock Is stock market volatility persistent? {A} fractionally integrated
+  approach.
+
+\bibitem[Biagini et~al., 2008]{biagini_stochastic_2008}
+Biagini, F., Hu, Y., Øksendal, B., y Zhang, T. (2008).
+\newblock {\em Stochastic {Calculus} for {Fractional} {Brownian} {Motion} and
+  {Applications}}.
+
+\bibitem[Black y Scholes, 1973]{black_pricing_1973-1}
+Black, F. y Scholes, M. (1973).
+\newblock The pricing of options and corporate liabilities.
+\newblock {\em Journal of Political Economy}, 81(3):637--654.
+
+\bibitem[Carr y Wu, 2003]{carr_what_2003}
+Carr, P. y Wu, L. (2003).
+\newblock What {Type} of {Process} {Underlies} {Options}? {A} {Simple} {Robust}
+  {Test}.
+\newblock 58(6).
+
+\bibitem[Chen et~al., 2006]{chen_persistence_2006}
+Chen, Z., Daigler, R.~T., y Parhizgari, A.~M. (2006).
+\newblock Persistence of volatility in futures markets.
+\newblock {\em Journal of Futures Markets: Futures, Options, and Other
+  Derivative Products}, 26(6):571--594.
+
+\bibitem[Cheridito et~al., 2003]{cheridito_fractional_2003}
+Cheridito, P., Kawaguchi, H., y Maejima, M. (2003).
+\newblock Fractional {Ornstein}-{Uhlenbeck} processes.
+\newblock {\em Electronic Journal of Probability}, 8:no. 3, 14.
+
+\bibitem[Chronopoulou, 2011]{chronopoulou_parameter_2011}
+Chronopoulou, A. (2011).
+\newblock Parameter estimation and calibration for long-memory stochastic
+  volatility models.
+\newblock {\em Handbook of Modeling High-Frequency Data in Finance}, 4:219.
+
+\bibitem[Comte y Renault, 1996]{comte_long_1996}
+Comte, F. y Renault, E. (1996).
+\newblock Long memory continuous time models.
+\newblock {\em Journal of Econometrics}, 73(1):101--149.
+
+\bibitem[Comte y Renault, 1998]{comte_long_1998}
+Comte, F. y Renault, E. (1998).
+\newblock Long memory in continuous-time stochastic volatility models.
+\newblock {\em Mathematical Finance}, 8(4):291--323.
+
+\bibitem[Coutin, 2007]{coutin_introduction_2007}
+Coutin, L. (2007).
+\newblock An introduction to (stochastic) calculus with respect to fractional
+  {Brownian} motion.
+\newblock In {\em Séminaire de {Probabilités} {XL}}, volume 1899 of {\em
+  Lecture {Notes} in {Math}.}, pages 3--65. Springer, Berlin.
+
+\bibitem[Di~Nunno et~al., 2009]{di_nunno_malliavin_2009}
+Di~Nunno, G., Ø~ksendal, B., y Proske, F. (2009).
+\newblock {\em Malliavin calculus for {Lévy} processes with applications to
+  finance}.
+\newblock Universitext. Springer-Verlag, Berlin.
+
+\bibitem[Ding et~al., 1993]{ding_long_1993}
+Ding, Z., Granger, C.~W., y Engle, R.~F. (1993).
+\newblock A long memory property of stock market returns and a new model.
+\newblock {\em Journal of empirical finance}, 1(1):83--106.
+
+\bibitem[Fukasawa, 2011]{fukasawa_asymptotic_2011}
+Fukasawa, M. (2011).
+\newblock Asymptotic analysis for stochastic volatility: martingale expansion.
+\newblock {\em Finance and Stochastics}, 15(4):635--654.
+
+\bibitem[Gatheral y Jacquier, 2014]{gatheral_arbitrage-free_2014}
+Gatheral, J. y Jacquier, A. (2014).
+\newblock Arbitrage-free {SVI} volatility surfaces.
+\newblock {\em Quantitative Finance}, 14(1):59--71.
+
+\bibitem[Gatheral et~al., 2018]{gatheral_volatility_2018}
+Gatheral, J., Jaisson, T., y Rosenbaum, M. (2018).
+\newblock Volatility is rough.
+\newblock {\em Quantitative Finance}, 18(6):933--949.
+
+\bibitem[Hull y White, 1990]{hull_pricing_1990}
+Hull, J. y White, A. (1990).
+\newblock Pricing interest-rate-derivative securities.
+\newblock {\em The review of financial studies}, 3(4):573--592.
+
+\bibitem[Hull y White, 1993]{hull_one-factor_1993}
+Hull, J. y White, A. (1993).
+\newblock One-factor interest-rate models and the valuation of interest-rate
+  derivative securities.
+\newblock {\em Journal of financial and quantitative analysis}, 28(2):235--254.
+
+\bibitem[Mandelbrot y Van~Ness, 1968]{mandelbrot_fractional_1968}
+Mandelbrot, B.~B. y Van~Ness, J.~W. (1968).
+\newblock Fractional {Brownian} motions, fractional noises and applications.
+\newblock {\em SIAM Review. A Publication of the Society for Industrial and
+  Applied Mathematics}, 10:422--437.
+
+\bibitem[Robert y Rosenbaum, 2012]{robert_volatility_2012}
+Robert, C.~Y. y Rosenbaum, M. (2012).
+\newblock Volatility and covariation estimation when microstructure noise and
+  trading times are endogenous.
+\newblock {\em Mathematical Finance: An International Journal of Mathematics,
+  Statistics and Financial Economics}, 22(1):133--164.
+
+\bibitem[Rosenbaum, 2007]{rosenbaum_etude_2007}
+Rosenbaum, M. (2007).
+\newblock {\em Etude de {Quelques} {Problèmes} d'{Estimation} {Statistique} en
+  {Finance}}.
+\newblock phdthesis, ENSAE ParisTech ; Université Paris-Est.
+
+\bibitem[Rosenbaum, 2011]{rosenbaum_new_2011}
+Rosenbaum, M. (2011).
+\newblock A new microstructure noise index.
+\newblock {\em Quantitative Finance}, 11(6):883--899.
+
+\bibitem[Samorodnitsky y Taqqu, 1994]{samorodnitsky_stable_1994}
+Samorodnitsky, G. y Taqqu, M.~S. (1994).
+\newblock {\em Stable non-{Gaussian} random processes}.
+\newblock Stochastic {Modeling}. Chapman \& Hall, New York.
+
+\bibitem[Simonsen, 2003]{simonsen_measuring_2003}
+Simonsen, I. (2003).
+\newblock Measuring anti-correlations in the nordic electricity spot market by
+  wavelets.
+\newblock {\em Physica A: Statistical Mechanics and its Applications},
+  322:597--606.
+
+\bibitem[Yilmaz, 2018]{yilmaz_computation_2018}
+Yilmaz, B. (2018).
+\newblock Computation of option greeks under hybrid stochastic volatility
+  models via {Malliavin} calculus.
+\newblock {\em Modern Stochastics. Theory and Applications}, 5(2):145--165.
+
+\end{thebibliography}
